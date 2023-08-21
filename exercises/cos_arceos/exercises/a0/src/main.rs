@@ -6,7 +6,7 @@ use axstd::println;
 
 
 
-// TODO: Implement macro println_prefix.
+// Implement macro println_prefix.
 #[cfg(feature = "axstd")]
 use axstd::println_prefix;
 
